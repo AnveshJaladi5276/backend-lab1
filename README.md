@@ -2,7 +2,7 @@
 
 **Name:** Anvesh Jaladi  
 **Section:** QF - 1(A)  
-**Registration Number:** YOUR_REGISTRATION_NUMBER
+**Registration Number:** 252U1R8031
 
 ## 1. Project Description
 
